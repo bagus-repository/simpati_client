@@ -1,0 +1,14 @@
+export 'content_page.dart';
+export 'efilling_page.dart';
+export 'fullscreen_image_page.dart';
+export 'home_page.dart';
+export 'login_page.dart';
+export 'new_update_page.dart';
+export 'news_detail_page.dart';
+export 'not_found_page.dart';
+export 'onboarding_page.dart';
+export 'pelayanan_page.dart';
+export 'register_page.dart';
+export 'riwayat_service_page.dart';
+export 'splash_screen_page.dart';
+export 'submenu_page.dart';
